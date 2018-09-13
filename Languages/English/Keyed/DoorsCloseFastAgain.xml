@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	<DoorsCloseFastAgain>Doors Close Fast Again</DoorsCloseFastAgain>
-	<DoorsCloseFastAgain.TickExplanation>Time in this game is measured in ticks, one second has 60 ticks. So if you set the below value to 60, it will take 1 second for doors to close after a colonist went through.</DoorsCloseFastAgain.TickExplanation>
+	<DoorsCloseFastAgain.TickExplanation>Time in this game is measured in ticks, one second has 60 ticks. So if you set the value to 60, it will take 1 second for doors to close after a colonist went through.</DoorsCloseFastAgain.TickExplanation>
 	<DoorsCloseFastAgain.NewTicksUntilClose>Ticks until doors close after someone went through: </DoorsCloseFastAgain.NewTicksUntilClose>
 </LanguageData>

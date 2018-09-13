@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<DoorsCloseFastAgain>Doors Close Fast Again</DoorsCloseFastAgain>
+	<DoorsCloseFastAgain.TickExplanation>Zeit wird im Spiel in Ticks gemessen, eine Sekunde hat dabei 60 Ticks. Wenn man also den Wert auf 60 setzt, benötigt eine Tür eine Sekunde zum Schließen, nachdem ein Kolonist durchgegangen ist.</DoorsCloseFastAgain.TickExplanation>
+	<DoorsCloseFastAgain.NewTicksUntilClose>Ticks, bis Türen Schließen, nachdem jemand durchgegangen ist: </DoorsCloseFastAgain.NewTicksUntilClose>
+</LanguageData>
