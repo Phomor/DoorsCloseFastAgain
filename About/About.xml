@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Doors Close Fast Again</name>
+	<author>Phomor</author>
+	<targetVersion>0.19.1987</targetVersion>
+	<description>
+Doors close immediately after somebody went through.
+	</description>
+</ModMetaData>
