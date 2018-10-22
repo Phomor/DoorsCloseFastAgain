@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DoorsCloseFastAgain>Doors Close Fast Again</DoorsCloseFastAgain>
+  <DoorsCloseFastAgain.TickExplanation>このゲームの時間はTickで測定され、1秒は60Tickです。\nしたがって、この値を60に設定すると、入植者が通過した後ドアを閉じるのに1秒間かかります。\n\n</DoorsCloseFastAgain.TickExplanation>
+  <DoorsCloseFastAgain.NewTicksUntilClose>誰かが通った後、ドアが閉まるまでの時間（Tick)：</DoorsCloseFastAgain.NewTicksUntilClose>
+
+</LanguageData>
