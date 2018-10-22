@@ -1,4 +1,4 @@
-Doors Close Fast Again 1.0
+Doors Close Fast Again 1.0.3
 
 Requirements: Rimworld B19
 
