@@ -10,7 +10,7 @@ using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Reflection;
-using Harmony;
+using HarmonyLib;
 using UnityEngine;
 using Verse;
 using RimWorld;
@@ -26,7 +26,7 @@ namespace DoorsCloseFastAgain
 		
 		public Controller(ModContentPack content) : base (content)
 		{
-			var harmony = HarmonyInstance.Create("rimworld.phomor.doorsclosefastagain");
+			var harmony = new Harmony("rimworld.phomor.doorsclosefastagain");
 			var original = typeof(Building_Door).GetMethod("Tick");
 			var postfix = typeof(HarmonyPatches).GetMethod("Postfix");
 			harmony.Patch(original, null, new HarmonyMethod(postfix));
