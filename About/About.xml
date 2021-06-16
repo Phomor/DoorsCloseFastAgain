@@ -2,12 +2,15 @@
 <ModMetaData>
 	<name>Doors Close Fast Again</name>
 	<author>Phomor</author>
-  <supportedVersions>
-    <li>1.0</li>
-    <li>1.1</li>
-    <li>1.2</li>
-  </supportedVersions>
-  <packageId>phomor.DoorsCloseFastAgain</packageId>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>phomor.DoorsCloseFastAgain</packageId>
+    <loadAfter>
+		<li>jecrell.doorsexpanded</li>
+    </loadAfter>
 	<description>
 Doors close immediately after somebody went through.
 	</description>
