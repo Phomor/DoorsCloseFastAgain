@@ -1,4 +1,4 @@
-﻿/*
+/*
  * User: Phomor
  * Date: 06.09.2018
  * Time: 16:32
@@ -17,9 +17,6 @@ using RimWorld;
 
 namespace DoorsCloseFastAgain
 {
-	
-	[HarmonyPatch(typeof(Building_Door))]
-	[HarmonyPatch("Tick")]
 	static class HarmonyPatches
 	{
 		public static int newTicksUntilClose = 59;
