@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModSyncNinjaData>
   <ID>b07b80b6-7140-4745-abcc-9d23ac1474b4</ID>
   <ModName>Doors Close Fast Again</ModName>
-  <Version>1.0.6</Version>
+  <Version>1.0.7</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>Phomor</Owner>
