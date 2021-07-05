@@ -1,6 +1,6 @@
-Doors Close Fast Again 1.0.3
+Doors Close Fast Again 1.0.7
 
-Requirements: Rimworld B19
+Requirements: Rimworld 1.0 to 1.3
 
 Features: Doors close fast again, like in B19, with an added settings menu for even faster closing.
 
